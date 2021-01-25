@@ -80,6 +80,7 @@ The voting modules and discussion modules are run again and again until the resu
 Pre-requisites for running the code:
 1) Install pygame module in python since it is not inbuilt. This a very simple procedure simply go to command line and write pip install pygame. This will start installing      pygame provided that python is recognized on the command prompt of your computer.
 2) Download all the files available in the source code and keep them in the same directory as that of where you want to run the main python program. Otherwise the program        will give error if all the files are not present in the same directory as that of the code.
+3)The code also contains an executable file that would require a visual c++ redistributable for opening. The visual c++ redistributable can be downloaded using the link https://www.microsoft.com/en-pk/download/confirmation.aspx?id=48145
 How to run the code:
 Download the python file provided in the source code and open it with option edit with IDLE. Now press F5 to run the code. The game window will appear and the code will start to run.
                  
